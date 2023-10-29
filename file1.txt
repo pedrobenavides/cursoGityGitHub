@@ -1,1 +1,1 @@
-Hola mundo!
+Hola mundo! Este fue el primer archivo creado para este curso.
